@@ -1,0 +1,62 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=FILE NAME=C:\Users\jdebruijn\Documents\Git\vv-altium-library\vidavidorra Library Database Connection.udl
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=
+LibraryDatabasePath=
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LibrarySearchPath=
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=ADC - Programmable
+[Table1]
+SchemaName=
+TableName=ADC - Programmable
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartId0=53|Value0=52|Comment0=72|Part Number0=87|Manufacturer0=93|Description0=82|Supplier 10=75|Supplier Part Number 10=142|Footprint Ref0=92|Footprint Path0=98|Library Ref0=77|Library Path0=83|ComponentLink1Description0=170|ComponentLink1URL0=131|ComponentLink2Description0=170|ComponentLink2URL0=131|ComponentLink3Description0=170|ComponentLink3URL0=131|Supplier 20=75|Supplier Part Number 20=142|Footprint Ref 20=101|Footprint Path 20=107|Footprint Ref 30=101|Footprint Path 30=107|Price0=47|Type0=46|Device Package0=101|Series0=53|Number of Bits0=100|Samping Rate0=94|Number of Inputs0=114|Input Type0=77|Data Interface0=95|Configuration0=96|Ratio - S/H:ADC0=103|Number of A/D Converters0=158|Architecture0=85|Reference Type0=100|Voltage - Supply, Analog0=151|Voltage - Supply, Digital0=148|Features0=67
+[Table2]
+SchemaName=
+TableName=Components
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=PartId0=53|ComponentType0=107|ComponentSubType0=127|Value0=52|Comment0=72|MfrPartNo0=76|Manufacturer0=93|Description0=82|Supplier10=72|Supplier1PartNo0=107|FootprintRef0=89|FootprintPath0=95|SymbolRef0=77|SymbolPath0=83|ComponentLink1Description0=170|ComponentLink1URL0=131|ComponentLink2Description0=170|ComponentLink2URL0=131|ComponentLink3Description0=170|ComponentLink3URL0=131|TemperatureRange0=120|TemperatureCoefficient0=143|Dielectric0=70|Tolerance0=72|PowerRating0=89|CurrentRating0=96|Voltage0=63|Frequency0=76|InsertionLoss0=91|Supplier20=72|Supplier2PartNo0=107|FootprintRef20=95|FootprintPath20=101|FootprintRef30=95|FootprintPath30=101|Price0=47|Type0=46|DevicePackage0=98|QatFrequency0=94|DCResistance0=92|Shielding0=72|ImpedanceAtFrequency0=143|Colour0=58|Millicandela0=85|LensTransparency0=113|VoltageForward0=106|CurrentTest0=82|ViewingAngle0=95|CurrentRectified0=107|VoltageDcReverse0=115|ReverseRecoveryTime0=130|CurrentReverseLeakage0=143|NumberOfTurns0=105|AdjustmentType0=105|RippleCurrent0=95|Impedance0=79|LifetimeAtTemp0=101|VoltageReverseStandoff0=147|VoltageBreakdown0=122|VoltageClamping0=112|CurrentPulsePeak0=113|PowerPeakPulse0=106|CapacitanceAtFrequency0=149|NumberOfPositions0=124|PositionsPerLevel0=111|NumberOfLevels0=107|Pitch0=48|Orientation0=83|Series0=53|FasteningType0=97|ContactFinish0=94|Attenuation0=85|NumberOfBits0=96|DataInterface0=92|NumberOfConverters0=132|NumberOfOutputs0=120|CurrentSupply0=97|CurrentOutput0=100|FrequencyLower0=107|FrequencyUpper0=108|IsolationAtFrequency0=132|InsertionLossAtFrequency0=155|Circuit0=56|P1dB0=49|Topology0=71|IIP30=41|InputRange0=84|Accuracy0=67|DisplayType0=83|DisplayMode0=90|Touchscreen0=87|ViewingArea0=88|Backlight0=71|DiagonalScreenSize0=124|DotPixels0=70|GraphicsColour0=103|BackgroundColour0=121|DotSize0=62|DotPitch0=67|SwitchFunction0=103|ContactRatingAtVoltage0=148|ActuatorType0=90|ActuatorHeight0=102|ActuatorOrientation0=127|Illumination0=85|IlluminationVoltage0=125|IlluminationTypeColour0=143|OperatingForce0=104|SwitchTravel0=86|MechanicalLife0=99|Speed0=55|MemoryType0=87|MemoryFormat0=100|MemorySize0=84|VoltageOutput0=101|VoltageDropout0=107|VoltageInput0=91|Features0=67|DrainToSourceVoltage0=138|RdsOnMax0=79|VgsthMax0=74|GateCharge0=84|InputCapacitance0=113|PowerMax0=76|ThreadedUnthreaded0=133|Gender0=61|ThreadSize0=78|DiameterInside0=100|DiameterOutside0=110|BetweenBoardHeight0=134|LengthOverall0=95|Material0=65|Plating0=59|Shape0=55|NumberOfPorts0=103|Termination0=84|TabDirection0=88|SizeDimension0=98|Thickness0=72|Hardness0=71|MountingType0=98|LoadCapacitance0=110|ESR0=42|OperatingMode0=106|Capacitance0=85|FrequencyStability0=117|Output0=61|InputType0=74|SamplingRate0=94|NumberOfInputs0=110|Configuration0=96|RatioSHADC0=86|NumberADConverters0=134|Architecture0=85|ReferenceType0=97|SupplyVoltageAnalogue0=148|OutputType0=84|Function0=69|CoreProcessor0=96|CoreSize0=67|Connectivity0=86|Peripherals0=80|NumberOfIO0=89|ProgramMemorySize0=127|ProgramMemoryType0=130|EepromSize0=82|RamSize0=65|DataConverters0=102|OscillatorType0=95|LedColour0=76|NumberOfRows0=105|IngressProtection0=113|Protocol0=66|Standards0=75|ShellSize0=68|FlangeFeature0=97|ResponseTime0=96|HumidityRange0=102|ForMeasuring0=95|SensorType0=81|CurrentSensing0=103|Sensitivity0=74|Linearity0=66|Polarisation0=84|MotorTypeStepper0=118|MotorTypeACDC0=107|OutputConfiguration0=134|Interface0=68|Technology0=82|StepResolution0=102|BatteryChemistry0=109|MaxOutputPower0=114|FeaturesLong0=93|VoltageInputMin0=111|VoltageInputMax0=112|VoltageOutputMin0=121|VoltageOutputMax0=122|FrequencySwitching0=127|SynchronousRectifier0=132|CurrentSaturation0=116|FrequencySelfResonant0=144|VoltageIsolation0=108|CurrentTransferRatioMin0=150|CurrentTransferRatioMax0=151|TurnOnOffTime0=102|VceSaturation0=95|CurrentDcForward0=118|RiseFallTime0=85|NumberOfDriversReceivers0=159|Duplex0=59|ReceiverHysteresis0=116|DataRate0=70|OperatingPressure0=119|PortSize0=64|PortStyle0=68|MaximumPressure0=115|PressureType0=89|Bandwidth0=80|FilterType0=72|Ratings0=62|Applications0=87|NoiseFigure0=85|TransistorType0=96|Gain0=47|DcCurrentGain0=99|CurrentCollector0=108|PlugMatingPlugDiameter0=152|InternalSwitches0=108|LensStyleSize0=90|BatteryTypeFunction0=128|Style0=47|BatteryCellSize0=98|NumberOfCells0=101|BatterySeries0=89|TerminationStyle0=108|SensingTemperatureLocal0=154|SensingTemperatureRemote0=167|Resolution0=79|RfFamily0=66|Modulation0=84|AntennaType0=90|CurrentReceive0=100|CurrentTransmit0=105|IsolatedPower0=96|Inputs0=56|ChannelType0=89|CommonModeTransientImmunity0=193|PropagationDelay0=115|PulseWidthDistortion0=134|CardType0=70|CardThickness0=96|NumberOfPositionsBayRow0=165|GateType0=70|LogicVoltage0=90|HighSideVoltage0=110|UnidirectionalChannels0=144|BidirectionalChannels0=136|SwitchCircuit0=90|MultiplexerDemultiplexerCircuit0=185|ChannelToChannelMatching0=170|OnStateResistance0=119|VoltageSupplyDual0=122|SwitchTime0=80|ChannelCapacitance0=128|ChannelLeakage0=108|Crosstalk0=70|Reset0=51|ResetTimeout0=92|VoltageThreshold0=114|ContactTermination0=124|ShieldTermination0=116|CableGroup0=85|BodyMaterial0=91|BodyFinish0=80|CenterContactMaterial0=139|CenterContactPlating0=133|DielectricMaterial0=112|ResistanceAt25C0=107|ResistanceTolerance0=126|BTolerance0=79|B0500=48|B25500=54|B25750=54|B25850=54|B251000=60
+[FieldMap1]
+Options=FieldName=ADC - Programmable.Part Number|TableNameOnly=ADC - Programmable|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=ADC - Programmable.Description|TableNameOnly=ADC - Programmable|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=ADC - Programmable.Footprint Ref|TableNameOnly=ADC - Programmable|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=ADC - Programmable.Footprint Path|TableNameOnly=ADC - Programmable|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=ADC - Programmable.Library Ref|TableNameOnly=ADC - Programmable|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=ADC - Programmable.Library Path|TableNameOnly=ADC - Programmable|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=ADC - Programmable.Footprint Ref 2|TableNameOnly=ADC - Programmable|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=ADC - Programmable.Footprint Path 2|TableNameOnly=ADC - Programmable|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=ADC - Programmable.Footprint Ref 3|TableNameOnly=ADC - Programmable|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=ADC - Programmable.Footprint Path 3|TableNameOnly=ADC - Programmable|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=Components.Description|TableNameOnly=Components|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
