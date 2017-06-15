@@ -1,0 +1,1 @@
+sqlcmd -S vval.c514bqpuloic.us-west-2.rds.amazonaws.com -U vidavidorra -P "x4R7Mno&1848#341" -d altium_library -i 
