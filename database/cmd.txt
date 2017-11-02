@@ -1,1 +1,1 @@
-sqlcmd -S vval.c514bqpuloic.us-west-2.rds.amazonaws.com -U shulshof -P "d+3K*L@*us8dip*U)wy,fw?sP*,!tyw&AVdezA-a,d}>9BibCEyu9e^HhPiDws6R" -d altium_library -i 
+sqlcmd -S vval.c514bqpuloic.us-west-2.rds.amazonaws.com -U ltenhove -P "!mR*FmoyL?vXt4=~}*XE*U7Ud:6i^38bZN}!LiHixq>AW2qT)9wtLoiA>ND#Hbtr" -d altium_library -i 
