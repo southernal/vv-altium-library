@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=FILE NAME=C:\Users\jdebruijn\Projects\vv-altium-library\vidavidorra Library Database Connection.udl
+ConnectionString=FILE NAME=C:\Users\jdebruijn\Documents\Git\vv-altium-library\vidavidorra Library Database Connection.udl
 AddMode=3
 RemoveMode=1
 UpdateMode=2
